@@ -1,0 +1,48 @@
+<!DOCTYPE html>
+<html lang="fa" dir="rtl">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1, viewport-fit=cover">
+  <title>نقشینو</title>
+  <meta name="description" content="نقشینو: تمرین‌های کوتاه و مرحله‌به‌مرحله‌ی طراحی با مداد">
+
+  <!-- رنگ نوار بالای گوشی (باید با theme_color در manifest.json یکی باشد) -->
+  <meta name="theme-color" content="#8B70D6">
+
+  <!-- نصب‌شدنی بودن (PWA) -->
+  <link rel="manifest" href="./manifest.json">
+
+  <!-- آیکون برای آیفون و تب مرورگر -->
+  <link rel="icon" href="./icons/icon.svg" type="image/svg+xml">
+  <link rel="apple-touch-icon" href="./icons/icon-192.png">
+  <meta name="apple-mobile-web-app-capable" content="yes">
+  <meta name="mobile-web-app-capable" content="yes">
+  <meta name="apple-mobile-web-app-title" content="نقشینو">
+  <meta name="apple-mobile-web-app-status-bar-style" content="default">
+
+  <link rel="stylesheet" href="./style.css">
+</head>
+<body>
+  <div class="app" id="app">
+    <!-- محتوای هر صفحه توسط app.js اینجا قرار می‌گیرد -->
+    <main class="view" id="view" tabindex="-1">
+      <p class="loading">در حال بارگذاری…</p>
+    </main>
+  </div>
+
+  <!-- منوی پایین (توسط app.js ساخته می‌شود) -->
+  <nav class="nav" id="nav" aria-label="منوی اصلی"></nav>
+
+  <!-- نوار «نسخه‌ی جدید آماده است» -->
+  <div class="update-bar" id="update-bar" hidden>
+    <span>نسخه‌ی جدید آماده است</span>
+    <button class="btn small warm" type="button" data-action="update-app">به‌روزرسانی</button>
+  </div>
+
+  <noscript>
+    <p style="padding:24px;text-align:center">برای استفاده از نقشینو باید جاوااسکریپت مرورگر فعال باشد.</p>
+  </noscript>
+
+  <script src="./app.js"></script>
+</body>
+</html>
