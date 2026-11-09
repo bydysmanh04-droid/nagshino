@@ -1,0 +1,282 @@
+[
+  {
+    "id": "ex-001",
+    "title": "کشیدن یک سیب ساده",
+    "category": "objects",
+    "level": "easy",
+    "isChallenge": false,
+    "durationMin": 10,
+    "description": "با چند شکل ساده یک سیب واقعی بکش.",
+    "finalImage": "images/ex-001-step-4.webp",
+    "steps": [
+      {
+        "text": "یک دایره‌ی کمی پهن و کج بکش. لازم نیست کامل باشد، سیب هم کامل نیست.",
+        "image": "images/ex-001-step-1.webp"
+      },
+      {
+        "text": "بالای دایره یک فرورفتگی کوچک بکش و یک ساقه‌ی کوتاه و باریک اضافه کن.",
+        "image": "images/ex-001-step-2.webp"
+      },
+      {
+        "text": "با مداد نرم، سمت راست و پایین سیب را سایه بزن. سمت چپ را سفید بگذار.",
+        "image": "images/ex-001-step-3.webp"
+      },
+      {
+        "text": "یک سایه‌ی بیضی زیر سیب بکش تا انگار روی میز نشسته است.",
+        "image": "images/ex-001-step-4.webp"
+      }
+    ]
+  },
+  {
+    "id": "ex-002",
+    "title": "گربه‌ی نشسته",
+    "category": "animals",
+    "level": "easy",
+    "isChallenge": false,
+    "durationMin": 10,
+    "description": "با دایره و بیضی، یک گربه‌ی بامزه‌ی نشسته بکش.",
+    "finalImage": "images/ex-002-step-4.webp",
+    "steps": [
+      {
+        "text": "یک بیضی بزرگ برای بدن و یک دایره‌ی کوچک‌تر برای سر بکش.",
+        "image": "images/ex-002-step-1.webp"
+      },
+      {
+        "text": "دو مثلث کوچک برای گوش‌ها روی سر بگذار.",
+        "image": "images/ex-002-step-2.webp"
+      },
+      {
+        "text": "چشم‌ها، بینی کوچک و سبیل‌ها را اضافه کن.",
+        "image": "images/ex-002-step-3.webp"
+      },
+      {
+        "text": "دم بلند را دور بدن بکش و با خطوط کوتاه، حالت موی گربه را نشان بده.",
+        "image": "images/ex-002-step-4.webp"
+      }
+    ]
+  },
+  {
+    "id": "ex-003",
+    "title": "فنجان چای",
+    "category": "objects",
+    "level": "easy",
+    "isChallenge": false,
+    "durationMin": 10,
+    "description": "یک فنجان چای را با بیضی و خط‌های ساده بکش.",
+    "finalImage": "images/ex-003-step-4.webp",
+    "steps": [
+      {
+        "text": "یک بیضی افقی برای دهانه‌ی فنجان بکش.",
+        "image": "images/ex-003-step-1.webp"
+      },
+      {
+        "text": "از دو طرف بیضی، خط‌هایی به پایین بکش و کف فنجان را گرد ببند.",
+        "image": "images/ex-003-step-2.webp"
+      },
+      {
+        "text": "دسته‌ی فنجان را به شکل حرف C در کنارش بکش.",
+        "image": "images/ex-003-step-3.webp"
+      },
+      {
+        "text": "داخل فنجان را سایه بزن و چند خط موج‌دار برای بخار چای بالای آن بکش.",
+        "image": "images/ex-003-step-4.webp"
+      }
+    ]
+  },
+  {
+    "id": "ex-004",
+    "title": "سایه‌زنی یک توپ",
+    "category": "shading",
+    "level": "easy",
+    "isChallenge": false,
+    "durationMin": 10,
+    "description": "یاد بگیر یک دایره‌ی تخت را به توپی برجسته تبدیل کنی.",
+    "finalImage": "images/ex-004-step-4.webp",
+    "steps": [
+      {
+        "text": "یک دایره‌ی تمیز بکش (می‌توانی دور یک سکه بکشی).",
+        "image": "images/ex-004-step-1.webp"
+      },
+      {
+        "text": "تصور کن نور از بالا و سمت چپ می‌آید و آن نقطه را سفید بگذار.",
+        "image": "images/ex-004-step-2.webp"
+      },
+      {
+        "text": "با مداد، سمت مقابل نور را تیره‌تر و بقیه را متوسط سایه بزن.",
+        "image": "images/ex-004-step-3.webp"
+      },
+      {
+        "text": "یک سایه‌ی بیضی روی زمین، در سمت مخالف نور بکش.",
+        "image": "images/ex-004-step-4.webp"
+      }
+    ]
+  },
+  {
+    "id": "ex-005",
+    "title": "ماهی کوچک",
+    "category": "animals",
+    "level": "easy",
+    "isChallenge": false,
+    "durationMin": 10,
+    "description": "یک ماهی ساده با بدنی شبیه بادام بکش.",
+    "finalImage": "images/ex-005-step-4.webp",
+    "steps": [
+      {
+        "text": "یک شکل بادامی افقی برای بدن بکش.",
+        "image": "images/ex-005-step-1.webp"
+      },
+      {
+        "text": "در انتها یک دم مثلثی یا بادبزنی اضافه کن.",
+        "image": "images/ex-005-step-2.webp"
+      },
+      {
+        "text": "یک چشم گرد، یک خط برای آبشش و باله‌های کوچک بکش.",
+        "image": "images/ex-005-step-3.webp"
+      },
+      {
+        "text": "با خطوط منحنی کوچک، فلس‌ها را نشان بده و چند حباب کنارش بکش.",
+        "image": "images/ex-005-step-4.webp"
+      }
+    ]
+  },
+  {
+    "id": "ex-006",
+    "title": "جعبه در پرسپکتیو",
+    "category": "perspective",
+    "level": "medium",
+    "isChallenge": false,
+    "durationMin": 15,
+    "description": "با یک نقطه‌ی گریز، یک جعبه‌ی سه‌بعدی بکش.",
+    "finalImage": "images/ex-006-step-4.webp",
+    "steps": [
+      {
+        "text": "یک خط افق و یک نقطه‌ی گریز روی آن بگذار.",
+        "image": "images/ex-006-step-1.webp"
+      },
+      {
+        "text": "یک مربع جلوی نقطه‌ی گریز بکش (این وجه روبه‌روی جعبه است).",
+        "image": "images/ex-006-step-2.webp"
+      },
+      {
+        "text": "از چهار گوشه‌ی مربع، خط‌های سبک به سمت نقطه‌ی گریز بکش.",
+        "image": "images/ex-006-step-3.webp"
+      },
+      {
+        "text": "عمق جعبه را با یک خط موازی ببند، خط‌های اضافی را پاک کن و یک طرف را سایه بزن.",
+        "image": "images/ex-006-step-4.webp"
+      }
+    ]
+  },
+  {
+    "id": "ex-007",
+    "title": "سایه‌ی یک استوانه",
+    "category": "shading",
+    "level": "medium",
+    "isChallenge": false,
+    "durationMin": 15,
+    "description": "سایه‌روشن روی یک سطح خمیده را تمرین کن.",
+    "finalImage": "images/ex-007-step-4.webp",
+    "steps": [
+      {
+        "text": "یک استوانه‌ی ساده بکش (دو بیضی و دو خط عمودی).",
+        "image": "images/ex-007-step-1.webp"
+      },
+      {
+        "text": "جهت نور را مشخص کن و یک نوار باریک سفید در همان سمت بگذار.",
+        "image": "images/ex-007-step-2.webp"
+      },
+      {
+        "text": "از سفید به سمت تیره، با فشار کم تا زیاد مداد، سایه‌ی نرم و تدریجی بزن.",
+        "image": "images/ex-007-step-3.webp"
+      },
+      {
+        "text": "زیر استوانه یک سایه‌ی کشیده بکش و کمی نور بازتاب‌شده در لبه‌ی تیره اضافه کن.",
+        "image": "images/ex-007-step-4.webp"
+      }
+    ]
+  },
+  {
+    "id": "ex-008",
+    "title": "پرتره‌ی جانبی ساده",
+    "category": "people",
+    "level": "hard",
+    "isChallenge": true,
+    "durationMin": 25,
+    "description": "چهره‌ی یک نفر را از نیم‌رخ بکش و نسبت‌ها را درست رعایت کن.",
+    "finalImage": "images/ex-008-step-4.webp",
+    "steps": [
+      {
+        "text": "یک مربع سبک بکش و آن را با خط‌های راهنما به چهار قسمت تقسیم کن.",
+        "image": "images/ex-008-step-1.webp"
+      },
+      {
+        "text": "خط پیشانی، بینی و چانه را روی لبه‌ی سمت چپ مربع بکش.",
+        "image": "images/ex-008-step-2.webp"
+      },
+      {
+        "text": "چشم، لب و گوش را با نسبت‌های درست جایگذاری کن (گوش بین خط چشم و بینی).",
+        "image": "images/ex-008-step-3.webp"
+      },
+      {
+        "text": "موها را در چند لایه بکش و روی چشم و پشت گوش سایه‌روشن بزن.",
+        "image": "images/ex-008-step-4.webp"
+      }
+    ]
+  },
+  {
+    "id": "ex-009",
+    "title": "خیابان با دو نقطه‌ی گریز",
+    "category": "perspective",
+    "level": "hard",
+    "isChallenge": true,
+    "durationMin": 30,
+    "description": "چند ساختمان را در پرسپکتیو دو نقطه‌ای بکش.",
+    "finalImage": "images/ex-009-step-4.webp",
+    "steps": [
+      {
+        "text": "یک خط افق و دو نقطه‌ی گریز در دو طرف آن بگذار.",
+        "image": "images/ex-009-step-1.webp"
+      },
+      {
+        "text": "یک خط عمودی برای نزدیک‌ترین گوشه‌ی ساختمان بکش و از بالا و پایینش خط‌هایی به هر دو نقطه‌ی گریز بکش.",
+        "image": "images/ex-009-step-2.webp"
+      },
+      {
+        "text": "ساختمان‌های کنارش را با همان خط‌های راهنما بساز و پنجره‌ها را به اندازه‌های متناسب جایگذاری کن.",
+        "image": "images/ex-009-step-3.webp"
+      },
+      {
+        "text": "خط‌های راهنما را کم‌رنگ کن، جزئیات (در، پنجره، پیاده‌رو) را اضافه کن و سایه‌ها را بزن.",
+        "image": "images/ex-009-step-4.webp"
+      }
+    ]
+  },
+  {
+    "id": "ex-010",
+    "title": "چشم با جزئیات و سایه‌روشن",
+    "category": "shading",
+    "level": "hard",
+    "isChallenge": true,
+    "durationMin": 25,
+    "description": "یک چشم واقع‌گرایانه با عمق و نور بکش.",
+    "finalImage": "images/ex-010-step-4.webp",
+    "steps": [
+      {
+        "text": "شکل بادامی چشم را با پلک بالا و پایین بکش.",
+        "image": "images/ex-010-step-1.webp"
+      },
+      {
+        "text": "عنبیه‌ی گرد و مردمک را بکش و یک نقطه‌ی کوچک برای انعکاس نور سفید بگذار.",
+        "image": "images/ex-010-step-2.webp"
+      },
+      {
+        "text": "سایه‌ی پلک بالا روی عنبیه را بزن و عنبیه را با خطوط شعاعی تیره‌تر کن.",
+        "image": "images/ex-010-step-3.webp"
+      },
+      {
+        "text": "مژه‌ها را با خطوط منحنی کوتاه بکش و ابرو و پوست اطراف را نرم سایه بزن.",
+        "image": "images/ex-010-step-4.webp"
+      }
+    ]
+  }
+]

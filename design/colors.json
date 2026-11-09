@@ -1,0 +1,9 @@
+{
+  "primary": "#8B70D6",
+  "primaryDark": "#5E45B0",
+  "secondary": "#FF995E",
+  "background": "#FFF9F4",
+  "text": "#302B3D",
+  "accent": "#20AFA5",
+  "note": "primaryDark فقط برای متن‌های کوچک روی پس‌زمینه‌ی کرم است تا خواناتر باشد."
+}
