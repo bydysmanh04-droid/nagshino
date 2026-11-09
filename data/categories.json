@@ -1,0 +1,32 @@
+[
+  {
+    "id": "animals",
+    "title": "حیوانات",
+    "icon": "paw",
+    "showOnHome": true
+  },
+  {
+    "id": "objects",
+    "title": "اشیا",
+    "icon": "cup",
+    "showOnHome": true
+  },
+  {
+    "id": "shading",
+    "title": "سایه‌زنی",
+    "icon": "shade",
+    "showOnHome": true
+  },
+  {
+    "id": "perspective",
+    "title": "پرسپکتیو",
+    "icon": "cube",
+    "showOnHome": true
+  },
+  {
+    "id": "people",
+    "title": "آدم‌ها",
+    "icon": "face",
+    "showOnHome": false
+  }
+]
