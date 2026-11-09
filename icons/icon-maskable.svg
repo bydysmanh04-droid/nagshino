@@ -1,0 +1,23 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" width="512" height="512">
+  <rect width="512" height="512" fill="#8B70D6"/>
+
+  <g transform="translate(256 256) rotate(-45)">
+    <!-- سایه‌ی نرم زیر مداد -->
+    <rect x="-150" y="-30" width="270" height="76" rx="10" fill="#302B3D" opacity="0.18" transform="translate(8 10)"/>
+    <!-- بدنه‌ی نارنجی -->
+    <rect x="-92" y="-38" width="184" height="76" fill="#FF995E"/>
+    <!-- خط روشن روی بدنه -->
+    <rect x="-92" y="-22" width="184" height="10" fill="#FFB98F"/>
+    <!-- خط تیره‌ی پایین بدنه -->
+    <rect x="-92" y="20" width="184" height="18" fill="#E57F45"/>
+    <!-- نوار فلزی -->
+    <rect x="86" y="-38" width="14" height="76" fill="#302B3D"/>
+    <!-- پاک‌کن -->
+    <rect x="100" y="-38" width="30" height="76" rx="14" fill="#FFF9F4"/>
+    <rect x="100" y="-38" width="14" height="76" fill="#FFF9F4"/>
+    <!-- بخش چوبی نوک -->
+    <polygon points="-92,-38 -92,38 -168,0" fill="#FFF9F4"/>
+    <!-- نوک فیروزه‌ای -->
+    <polygon points="-168,0 -141,-13.7 -141,13.7" fill="#20AFA5"/>
+  </g>
+</svg>
